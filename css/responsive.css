@@ -49,7 +49,9 @@
   font-size:0.9em;
 }
   
-  
+    .col-3 p {
+   column-count: 1;
+}
 
 
 }
